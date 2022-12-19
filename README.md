@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Trypezz
+- Wannabe Python programmer
 - 👀 I’m interested in Videogames and progamming
 - 🌱 I’m currently learning Python and want to learn more Languages like Java, C# or C++
 
