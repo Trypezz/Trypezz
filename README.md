@@ -18,6 +18,7 @@
 ## 🎮 who am i?
 
 Videogame enthusiast
+
 Arch enjoyer (btw)
 
 I care a lot about internal logic  
