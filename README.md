@@ -5,7 +5,7 @@
 <img align="right" height="180" src="https://i.imageupload.app/23e342bdd0d9ae80bbaa.gif" />
 <div align="center">
   <br><br>
-  <strong>Wannabe Programmer | Arch enjoyer | Videogame enthusiast</strong><br>
+  <strong>Wannabe Programmer | Arch enjoyer (btw) | Video Game enthusiast</strong><br>
   <i>Because you never really "finish" learning —<br>
   and pretending otherwise is just lying to yourself.</i>
   </div>
@@ -31,9 +31,10 @@
 ---
 
 ### 🌱 Currently exploring
-- Building a small custom game framework in C# [`SpriteForge`](https://github.com/Trypezz/SpriteForge) (currently collecting digital dust)
-- Getting better at system design & C/C++ (send help)
+- Building a small custom game framework in C# (**[`SpriteForge`](https://github.com/Trypezz/SpriteForge)** — currently collecting digital dust)
+- Leveling up system design & C/C++ (send help)
 - Making my Arch setup even more autistic than myself [`Dotfiles`](https://github.com/Trypezz/dots)
+- Falling into random 3 AM rabbit holes
 
 ---
 
@@ -42,7 +43,7 @@
 
   Discord: [`Trypezz`](https://discord.com/users/411575050475405312)<br>
   Feel free to open an issue on any of my repos — I don't bite (most of the time).<br>
-  Just don't ask why 90% of my side projects are abandoned… I ask myself that every day.
+  Just don't ask why 90% of my side projects are abandoned...
 </div>
 
 ---
