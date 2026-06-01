@@ -23,17 +23,35 @@
 
 ---
 
-### 🛠️ Technologies I work with
+<h3>🛠️ Technologies I work with</h3>
 
-**Core Tools**
-- **Java** · **C#**
-- **Linux** (Arch btw) & Bash scripting
-- **C/C++** — currently suffering through this learning phase
+<div align="center">
 
-**Things I enjoy diving into**
-- Game Development & Custom Engines
-- Software Architecture
-- Over-engineering things that don't need it
+<table border="0" width="100%">
+<tr>
+<td valign="top" width="50%">
+
+<h3>Core Tools</h3>
+<div align="left">
+- <strong>Java</strong> · <strong>C#</strong> <br>
+- <strong>Linux</strong> (Arch btw) & Bash scripting <br>
+- <strong>C/C++</strong> — currently suffering through this learning phase <br>
+</div>
+
+</td>
+<td valign="top" width="50%">
+
+<h3>Things I enjoy diving into</h3>
+<div align="left">
+- Game Development & Custom Engines <br>
+- Software Architecture <br>
+- Over-engineering things that don't need it <br>
+</div>
+
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
