@@ -6,9 +6,9 @@
   and pretending otherwise is just lying to yourself.*
 </div>
 
----
-
 <img align="right" height="180" src="makotoyuki.gif"  />
+
+---
 
 <div align="left">
 ### 🎮 Who I am
