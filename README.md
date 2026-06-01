@@ -5,7 +5,7 @@
 <img align="right" height="180" src="https://i.imageupload.app/23e342bdd0d9ae80bbaa.gif" />
 <div align="center">
   <br><br>
-  <strong>Wannabe Programmer | Arch enjoyer (btw) | Video Game enthusiast</strong><br>
+  <strong>Wannabe Programmer | Arch enjoyer (btw) | Video Game Enthusiast</strong><br>
   <i>Because you never really "finish" learning —<br>
   and pretending otherwise is just lying to yourself.</i>
   </div>
@@ -31,7 +31,7 @@
 ---
 
 ### 🌱 Currently exploring
-- Building a small custom game framework in C# (**[`SpriteForge`](https://github.com/Trypezz/SpriteForge)** — currently collecting digital dust)
+- Building **[`SpriteForge`](https://github.com/Trypezz/SpriteForge)** — a small custom game framework in C# (currently collecting digital dust)
 - Leveling up system design & C/C++ (send help)
 - Making my Arch setup even more autistic than myself [`Dotfiles`](https://github.com/Trypezz/dots)
 - Falling into random 3 AM rabbit holes
