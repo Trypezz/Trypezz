@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <h1>Hey, I'm <strong>Trypezz</strong> 👾</h1>
  
   **Wannabe Programmer**  
@@ -8,6 +8,9 @@
 
 ---
 
+<img align="right" height="180" src="makotoyuki.gif"  />
+
+<div align="left">
 ### 🎮 Who I am
 
 - **Video game enthusiast** who romanticizes well-designed systems (Game Design, Engine Architecture, Modding)
@@ -15,9 +18,11 @@
 - I have a concerning obsession with **internal logic** and consistency
 - Superficial solutions physically pain me. If something *feels* wrong, I'll rewrite it…
 - Professional overthinker. Depth > quick & dirty (my productivity's mortal enemy)
+</div>
 
 ---
 
+<div align="left">
 ### 🛠️ Technologies I work with
 
 **Core Tools**
@@ -29,9 +34,11 @@
 - Game Development & Custom Engines
 - Software Architecture
 - Over-engineering things that don't need it
+</div>
 
 ---
 
+<div align="left">
 ### 🌱 Currently exploring
 
 - Building a small custom game framework in C# (currently collecting digital dust)
@@ -39,15 +46,16 @@
 - C/C++ (send help… or better mental fortitude)
 - Whatever interesting rabbit hole I fall into at 3 AM
 - Trying to make my Arch setup even more autistic than myself
+</div>
 
 ---
 
+<div align="center">
 ### 💬 Let's connect
 
-- Discord: `trypezz`
-- Feel free to open an issue on any of my repos — I don't bite (most of the time)
-- Just don't ask me why 90% of my side projects are abandoned… I ask myself that every day
+  Discord: `trypezz`<br>
+  Feel free to open an issue on any of my repos — I don't bite (most of the time)<br>
+  Just don't ask me why 90% of my side projects are abandoned… I ask myself that every day<br>
+</div>
 
 ---
-
-> *"If the Explorer in Window crashes, your whole Desktop crashes"* -- Was my realization how bad windows really is
