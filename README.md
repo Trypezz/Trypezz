@@ -6,7 +6,7 @@
   and pretending otherwise is just lying to yourself.*
 </div>
 
-<img align="right" height="180" src="makotoyuki.gif"  />
+<img align="right" height="180" src="https://i.imageupload.app/23e342bdd0d9ae80bbaa.gif"  />
 
 ---
 
