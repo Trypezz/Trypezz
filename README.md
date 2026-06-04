@@ -16,7 +16,7 @@
 
 ### 🎮 Who I am
 
-- Video game enthusiast who romanticizes well-designed systems (Game Design, Architecture)
+- Video game enthusiast who romanticizes well-designed systems (Game Design, Systems, Gameplay Mechanics)
 - Arch Linux devotee (btw) — my rice is my personality at this point
 - Obsessed with **internal logic** and consistency
 - Superficial solutions physically pain me. If it *feels* wrong, I'll rewrite it.
