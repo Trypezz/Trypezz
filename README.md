@@ -7,8 +7,9 @@
   <br><br>
   <strong>Wannabe Programmer | Arch enjoyer (btw) | Video Game Enthusiast</strong><br>
   <i>Because you never really "finish" learning —<br>
-  and pretending otherwise is just lying to yourself.</i>
-  </div>
+  and pretending otherwise is just lying to yourself.</i><br><br>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Trypezz.Trypezz&"  />
+</div>
 <br clear="right" />
 
 ---
