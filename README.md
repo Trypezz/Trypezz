@@ -12,7 +12,7 @@
 </div>
 <br clear="right" />
 
----
+<h1></h1>
 
 ### 🎮 Who I am
 
@@ -22,14 +22,14 @@
 - Superficial solutions physically pain me. If it *feels* wrong, I'll rewrite it.
 - Professional overthinker. Depth over convinience.
 
----
+<h1></h1>
 
 ### 🛠️ Technologies & Interests
 
 - **Core:** Java · C# · Linux (Arch) & Bash · C/C++ *(currently suffering)*
 - **Deep dives:** Game Development & Custom Engines · Software Architecture · Tasteful over-engineering
 
----
+<h1></h1>
 
 ### 🌱 Currently exploring
 - Building **[`SpriteForge`](https://github.com/Trypezz/SpriteForge)** — a small custom game framework in C# (currently collecting digital dust)
@@ -37,7 +37,7 @@
 - Making my Arch setup even more autistic than myself [`Dotfiles`](https://github.com/Trypezz/dots)
 - Falling into random 3 AM rabbit holes
 
----
+<h1></h1>
 
 <div align="center">
 <h3>💬 Let's connect 💬</h3>
@@ -47,4 +47,4 @@
   Just don't ask why 90% of my side projects are abandoned...
 </div>
 
----
+<h1></h1>
