@@ -33,7 +33,7 @@
 
 ### 🌱 Currently exploring
 - Currently working on a Gameboy Emulator **[`Gameboy-Emu`](https://github.com/Trypezz/Gameboy-Emu)** just to learn how these things work
-- Working on a german translation for `Revelations: Persona` for the PSP.
+- Working on a german translation for the game Revelations: Persona for the PSP. -> [`Revelations-Persona-DE`](https://github.com/Trypezz/Revelations-Persona-DE).
 - Building **[`SpriteForge`](https://github.com/Trypezz/SpriteForge)** — a small custom game framework in C# (currently collecting digital dust)
 - Leveling up system design & C/C++ (send help)
 - Making my Arch setup even more autistic than myself [`Dotfiles`](https://github.com/Trypezz/dots)
